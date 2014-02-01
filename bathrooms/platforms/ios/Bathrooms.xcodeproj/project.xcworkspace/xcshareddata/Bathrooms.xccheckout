@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D5FC0877-3760-431E-A509-04173F158A22</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Bathrooms</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5F31B0BE-4CD3-4F0F-92A8-5414870009D1</key>
+		<string>ssh://github.com/arthuralee/bthrms.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>bathrooms/platforms/ios/Bathrooms.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5F31B0BE-4CD3-4F0F-92A8-5414870009D1</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/arthuralee/bthrms.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5F31B0BE-4CD3-4F0F-92A8-5414870009D1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5F31B0BE-4CD3-4F0F-92A8-5414870009D1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>bthrms</string>
+		</dict>
+	</array>
+</dict>
+</plist>
